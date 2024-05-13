@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amogh H S</h1>
 <h3 align="center">A passionate tech Enthusiast from India.</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2blgvjKxElCIAmxq2aIXhc&ust=1715695618030000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjGzbLmioYDFQAAAAAdAAAAABAE">
+<img align="right" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2blgvjKxElCIAmxq2aIXhc&ust=1715695618030000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjGzbLmioYDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3_yrsDhp5-xpJuiD0kKqtZ&ust=1715696429978000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICmx7PpioYDFQAAAAAdAAAAABAI)">
 
 - 🌱 I’m currently learning **React, Node.js, MERN**
 
